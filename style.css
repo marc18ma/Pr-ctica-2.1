@@ -1,0 +1,11 @@
+p#definicion{
+    color: blue;
+}
+
+p{
+    color: green;
+}
+
+p.ejemplos{
+    color: red;
+}
